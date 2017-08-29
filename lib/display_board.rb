@@ -2,7 +2,6 @@
 def display_board
   boardRow = "   |   |   "
   line     = "-----------"
-  puts "a Tic Tac Toe Board"
   puts boardRow
   puts line
   puts boardRow
