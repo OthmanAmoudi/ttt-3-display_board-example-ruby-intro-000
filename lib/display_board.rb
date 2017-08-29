@@ -3,12 +3,12 @@ def display_board
   boardRow = [" ","|"," ","|"," "]
   line = ["-----------"]
   puts "a Tic Tac Toe Board"
-  print boardRow
-  print line
-  print boardRow
-  print line
-  print boardRow
-  print line
+  puts boardRow
+  puts line
+  puts boardRow
+  puts line
+  puts boardRow
+  puts line
 end
 
 display_board
